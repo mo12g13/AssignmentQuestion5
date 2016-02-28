@@ -1,13 +1,13 @@
-Cappuccino: Sold 10, Expenses, $15.60, Revenue $35.00, Profit $19.40
-Espresso: Sold 20 Expenses $19.00, Revenue 30.00, Profit $11.00
-Latte: Sold 30, Expenses $50.10, Revenue $112.50, Profit $62.40
-Black Tea: Sold 40, Expenses $ 14.00, Revenue $71.60, Profit $57.60
-Herbal tea: Sold 50, Expenses $ 17.500000, Revenue $  104.50Profit $87.00
-Macchiato: Sold 60, Expenses $87.00, Revenue $ 165.00, Profit $ 78.00
-Americano: Sold 70, Expenses $49.00, Revenue $ 159.00, Profit $ 110.00
-Cold press: Sold 80, Expenses $40.00, Revenue, $200.00, Profit $160.00
-Hot chocolate: Sold 90, Expenses $ 58.50, Revenue $ 112.50, Profit $ 54.00
-Coffee : Sold 100, Expenses $ 25.00, Revenue $ 165.00, Profit $ 140.00
-Chai tea : Sold 102, Expenses $125.46, Revenue $357.00, Profit $357.00
-Mocha : Sold 102, Expenses $.2147.900000, Revenue $377.40, Profit $229.50
+Cappuccino: Sold 45, Expenses, $70.20, Revenue $157.50, Profit $87.30
+Espresso: Sold 12 Expenses $11.40, Revenue 18.00, Profit $6.60
+Latte: Sold 23, Expenses $38.41, Revenue $86.25, Profit $47.84
+Black Tea: Sold 10, Expenses $ 3.50, Revenue $17.90, Profit $14.40
+Herbal tea: Sold 30, Expenses $ 10.500000, Revenue $  62.70Profit $52.20
+Macchiato: Sold 14, Expenses $20.30, Revenue $ 38.50, Profit $ 18.20
+Americano: Sold 75, Expenses $52.50, Revenue $ 198.75, Profit $ 146.25
+Cold press: Sold 63, Expenses $31.50, Revenue, $157.50, Profit $126.00
+Hot chocolate: Sold 58, Expenses $ 37.70, Revenue $ 67.50, Profit $ 29.80
+Coffee : Sold 96, Expenses $ 24.00, Revenue $ 158.40, Profit $ 134.40
+Chai tea : Sold 32, Expenses $39.36, Revenue $112.00, Profit $112.00
+Mocha : Sold 52, Expenses $.275.400000, Revenue $192.40, Profit $117.00
  
